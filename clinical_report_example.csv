@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Diagnosis,Treatment,Admission_Date,Discharge_Date,Doctor,Status
+1001,Anna Silva,34,Female,Hypertension,Medication A, Bed Rest,2025-09-15,2025-09-22,Dr. Santos,Recovered
+1002,Carlos Souza,45,Male,Type 2 Diabetes,Insulin Therapy,2025-09-18,2025-09-25,Dr. Costa,Monitoring
+1003,Maria Oliveira,62,Female,Asthma,Inhaler Treatment,2025-09-20,2025-09-27,Dr. Lima,Stable
+1004,João Mendes,58,Male,Hyperlipidemia,Statin Therapy,2025-09-22,2025-09-29,Dr. Santos,Improved
+L1005,Lucia Teixeira,51,Female,Osteoarthritis,Physical Therapy,2025-09-25,2025-10-02,Dr. Costa,In Treatment
+1006,Pedro Rodrigues,42,Male,Migraine,Pain Management,2025-09-27,2025-10-04,Dr. Lima,Stable
+1007,Ana Rosa,68,Female,Hip Fracture,Surgery, Post-op Care,2025-09-28,2025-10-05,Dr. Santos,Recovering
+1008,Fernando Carvalho,39,Male,Gastritis,Medication B, Diet Change,2025-10-01,2025-10-08,Dr. Costa,Improved
+1009,Claudia Alves,55,Female,Depression,Therapy & Medication,2025-10-03,2025-10-10,Dr. Lima,Monitoring
+1010,Gustavo Santana,47,Male,Chronic Kidney Disease,Dialysis,2025-10-05,2025-10-12,Dr. Santos,In Treatment
