@@ -1,4 +1,4 @@
-# 📊 Clinical Google Sheets Automation / Automação de Relatórios Clínicos Google Sheets
+# 📊 Clinical Google Sheets Automation
 
 <div align="center">
 
@@ -8,13 +8,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-**Automatize relatórios clínicos • Gestão inteligente de dados • Produtividade em saúde**
+**Automate clinical reports • Intelligent data management • Healthcare productivity**
 
 </div>
 
 ---
-
-## 🇺🇸 English
 
 ### Overview
 
@@ -56,3 +54,44 @@ This project automates the generation of clinical reports from patient data stor
 
 - Google Account with Google Sheets access
 - Basic understanding of Google Apps Script
+- Clinical data in CSV format
+
+### Technical Details
+
+- Built with Google Apps Script
+- Supports CSV import/export
+- Template-based report generation
+- Real-time data processing
+
+### Security
+
+- Data processed within Google Workspace
+- No external data transmission
+- HIPAA-compliant workflow support
+- Secure authentication via Google
+
+### Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Author
+
+**Gisele Malvezzi**
+- Biomedical Scientist | Clinical Data Analyst | Clinical Research Specialist
+- GitHub: [@GiseleMalvezzi](https://github.com/GiseleMalvezzi)
+
+### Acknowledgments
+
+- Thanks to the healthcare and data science communities for inspiration
+- Built with modern automation best practices
+- Designed for real-world clinical workflows
+
+---
+
+⭐ If you find this project useful, please consider giving it a star! ⭐
+
+Made with ❤️ for the health sciences and data science communities
